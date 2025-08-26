@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Live Preview
-🔗 👉[Click here to view the live site](## https://aishwarya152.github.io/Food-Order-Page/)
+🔗 👉[Click here to view the live site](https://aishwarya152.github.io/Food-Order-Page/)
 
 ---
 
