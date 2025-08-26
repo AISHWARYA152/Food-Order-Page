@@ -9,7 +9,7 @@
 - 💡 Modern and minimal UI  
 - 📱 Mobile-responsive design  
 - 🎯 Call-to-action button for booking  
-- ✨ Fully built using pure HTML & CSS (No frameworks)
+- ✨ Fully built using pure **HTML & CSS** (No frameworks)
 
 ---
 
@@ -26,8 +26,8 @@
 ---
 
 ## 🚀 What I Learned
-- 🔹 Structuring semantic HTML  
-- 🔹 Styling with CSS Grid and Flexbox  
+- 🔹 Structuring semantic **HTML**  
+- 🔹 Styling with **CSS** Grid and Flexbox  
 - 🔹 Creating clean, aesthetic UI layouts  
 - 🔹 Enhancing user experience with subtle design elements 
 
